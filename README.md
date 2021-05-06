@@ -19,8 +19,7 @@
 * torch==1.7.1
 
 **Requirements**: 
-'<pip install -r requirements.txt>'
-  `<addr>`
+`<pip install -r requirements.txt>`
 
 ## Original Dataset
 
