@@ -31,6 +31,8 @@ The original data was downloaded from [UCI Machine Learning Repository](https://
 
 ## EDA
 
+![box](https://github.com/ChikazeMori/Comparison-of-MultilayerPerceptron-and-SupportVectorMachine/blob/main/pics/boxplot.png)
+
 
 
 ## Conclusion 
