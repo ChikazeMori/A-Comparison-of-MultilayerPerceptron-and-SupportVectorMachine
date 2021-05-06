@@ -82,3 +82,4 @@ All jupyter notebooks are available as ipynb.
 
 * MLP_optimised.joblib: The optimised MLP model
 * SVM_optimised.joblib: The optimised SVM model
+* Report: The report for the whole project
