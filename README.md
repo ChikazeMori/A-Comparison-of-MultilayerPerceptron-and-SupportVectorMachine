@@ -53,6 +53,7 @@ SVM:
 
 ## Best Models
 Model |	Training score |	Validation score	| Test score
+------------ | ------------- | ------------ | -----------
 MLP |	0.868 |	0.860 |	0.836
 SVM |	0.884 | 0.852 | 0.852
 
