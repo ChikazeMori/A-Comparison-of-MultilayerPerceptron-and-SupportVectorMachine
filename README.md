@@ -35,6 +35,10 @@ The original data was downloaded from [UCI Machine Learning Repository](https://
 
 
 
+![corr](https://github.com/ChikazeMori/Comparison-of-MultilayerPerceptron-and-SupportVectorMachine/blob/main/pics/corr.png)
+
+
+
 ## Conclusion 
 
 
