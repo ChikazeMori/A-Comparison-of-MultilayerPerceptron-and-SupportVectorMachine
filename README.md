@@ -17,7 +17,8 @@
 * skorch==0.9.0
 * torch==1.7.1
 
-**Requirements**: 'pip install -r requirements.txt'
+**Requirements**: 
+'pip install -r requirements.txt'
 
 ## Original Dataset
 
