@@ -6,6 +6,7 @@
 
 ## Packages
 **Python Version**: 3.8.3
+
 **Packages used**:
 * joblib==0.16.0
 * matplotlib==3.2.2
@@ -18,7 +19,7 @@
 * torch==1.7.1
 
 **Requirements**: 
-'pip install -r requirements.txt'
+"pip install -r requirements.txt"
 
 ## Original Dataset
 
