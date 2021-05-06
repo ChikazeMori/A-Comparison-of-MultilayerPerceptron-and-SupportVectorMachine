@@ -58,9 +58,27 @@ MLP |	0.868 |	0.860 |	0.836
 SVM |	0.884 | 0.852 | 0.852
 
 ## Conclusion 
-
+* SVM outperformed MLP
+* MLP is more capable of computational training than SVM and has potential to outperform SVM when it is trained with bigger size of hidden layers.
 
 
 ## Specifications
 
+** Jupyter Notebooks
 
+All jupyter notebooks are available as ipynb
+
+data_preparation: Clean the dataset
+MLP_optimisation: Apply a grid search for MLP
+SVM_optimisation: Apply a grid search for SVM
+MLP_testing: Test the MLP model
+SVM_testing: Test the SVM model
+
+** Folders
+
+Code: Contains all of the codes implemented
+
+** Files
+
+MLP_optimised.joblib: The optimised MLP model
+SVM_optimised.joblib: The optimised SVM model
