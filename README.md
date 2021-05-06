@@ -31,13 +31,20 @@ The original data was downloaded from [UCI Machine Learning Repository](https://
 
 ## EDA
 
+Boxplot of non-categorical variables:
 ![box](https://github.com/ChikazeMori/Comparison-of-MultilayerPerceptron-and-SupportVectorMachine/blob/main/pics/boxplot.png)
 
-
-
+Correlation matrix:
 ![corr](https://github.com/ChikazeMori/Comparison-of-MultilayerPerceptron-and-SupportVectorMachine/blob/main/pics/corr.png)
 
+## Hyperparameters
+MLP: learning_rate=0.1, momentum=0.85, hidden_size=200
+SVM: C=0.1, degree=3, kernel=poly
 
+## Best Models
+Model |	Training score |	Validation score	| Test score
+MLP |	0.868 |	0.860 |	0.836
+SVM |	0.884 | 0.852 | 0.852
 
 ## Conclusion 
 
