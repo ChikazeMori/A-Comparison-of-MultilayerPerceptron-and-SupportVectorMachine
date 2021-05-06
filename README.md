@@ -32,9 +32,12 @@ The original data was downloaded from [UCI Machine Learning Repository](https://
 ## EDA
 
 Boxplot of non-categorical variables:
+
 ![box](https://github.com/ChikazeMori/Comparison-of-MultilayerPerceptron-and-SupportVectorMachine/blob/main/pics/boxplot.png)
 
+
 Correlation matrix:
+
 ![corr](https://github.com/ChikazeMori/Comparison-of-MultilayerPerceptron-and-SupportVectorMachine/blob/main/pics/corr.png)
 
 ## Hyperparameters
