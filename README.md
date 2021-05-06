@@ -22,7 +22,7 @@
 `<pip install -r requirements.txt>`
 
 ## Original Dataset
-The original data was downloaded from UCI Machine Learning Repository(https://archive.ics.uci.edu/ml/datasets/Heart+Disease).
+The original data was downloaded from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease).
 
 ## Specifications
 
