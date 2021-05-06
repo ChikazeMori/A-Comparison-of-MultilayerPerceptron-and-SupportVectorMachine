@@ -31,22 +31,22 @@ The original data was downloaded from [UCI Machine Learning Repository](https://
 
 ## EDA
 
-Boxplot of non-categorical variables:
+**Boxplot of non-categorical variables**:
 
 ![box](https://github.com/ChikazeMori/Comparison-of-MultilayerPerceptron-and-SupportVectorMachine/blob/main/pics/boxplot.png)
 
 
-Correlation matrix:
+**Correlation matrix**:
 
 ![corr](https://github.com/ChikazeMori/Comparison-of-MultilayerPerceptron-and-SupportVectorMachine/blob/main/pics/corr.png)
 
 ## Hyperparameters
-MLP: 
+**MLP**: 
 * learning_rate=0.1
 * momentum=0.85
 * hidden_size=200
 
-SVM: 
+**SVM**: 
 * C=0.1
 * degree=3
 * kernel=poly
@@ -68,22 +68,17 @@ SVM |	0.884 | 0.852 | 0.852
 
 All jupyter notebooks are available as ipynb
 
-data_preparation: Clean the dataset
-
-MLP_optimisation: Apply a grid search for MLP
-
-SVM_optimisation: Apply a grid search for SVM
-
-MLP_testing: Test the MLP model
-
-SVM_testing: Test the SVM model
+* data_preparation: Clean the dataset
+* MLP_optimisation: Apply a grid search for MLP
+* SVM_optimisation: Apply a grid search for SVM
+* MLP_testing: Test the MLP model
+* SVM_testing: Test the SVM model
 
 ### Folders
 
-Code: Contains all of the codes implemented
+* Code: Contains all of the codes implemented
 
 ### Files
 
-MLP_optimised.joblib: The optimised MLP model
-
-SVM_optimised.joblib: The optimised SVM model
+* MLP_optimised.joblib: The optimised MLP model
+* SVM_optimised.joblib: The optimised SVM model
