@@ -24,6 +24,19 @@
 ## Original Dataset
 The original data was downloaded from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease).
 
+
+## Data cleaning
+* Dummy encoded the categorical variables.
+* Split the dataset into training and test sets (80% and 20%).
+
+## EDA
+
+
+
+## Conclusion 
+
+
+
 ## Specifications
 
 
