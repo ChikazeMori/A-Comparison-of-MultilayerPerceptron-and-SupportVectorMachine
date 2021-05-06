@@ -66,7 +66,7 @@ SVM |	0.884 | 0.852 | 0.852
 
 ### Jupyter Notebooks
 
-All jupyter notebooks are available as ipynb
+All jupyter notebooks are available as ipynb.
 
 * data_preparation: Clean the dataset
 * MLP_optimisation: Apply a grid search for MLP
