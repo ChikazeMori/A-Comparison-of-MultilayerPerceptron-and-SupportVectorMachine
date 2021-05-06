@@ -64,7 +64,7 @@ SVM |	0.884 | 0.852 | 0.852
 
 ## Specifications
 
-** Jupyter Notebooks
+### Jupyter Notebooks
 
 All jupyter notebooks are available as ipynb
 
@@ -74,11 +74,11 @@ SVM_optimisation: Apply a grid search for SVM
 MLP_testing: Test the MLP model
 SVM_testing: Test the SVM model
 
-** Folders
+### Folders
 
 Code: Contains all of the codes implemented
 
-** Files
+### Files
 
 MLP_optimised.joblib: The optimised MLP model
 SVM_optimised.joblib: The optimised SVM model
