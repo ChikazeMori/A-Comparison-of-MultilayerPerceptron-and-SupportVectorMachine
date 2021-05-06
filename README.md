@@ -41,8 +41,15 @@ Correlation matrix:
 ![corr](https://github.com/ChikazeMori/Comparison-of-MultilayerPerceptron-and-SupportVectorMachine/blob/main/pics/corr.png)
 
 ## Hyperparameters
-MLP: learning_rate=0.1, momentum=0.85, hidden_size=200
-SVM: C=0.1, degree=3, kernel=poly
+MLP: 
+* learning_rate=0.1
+* momentum=0.85
+* hidden_size=200
+
+SVM: 
+* C=0.1
+* degree=3
+* kernel=poly
 
 ## Best Models
 Model |	Training score |	Validation score	| Test score
